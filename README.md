@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
