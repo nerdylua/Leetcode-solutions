@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
