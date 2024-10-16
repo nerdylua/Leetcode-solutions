@@ -1,9 +1,9 @@
 class Solution {
 public:
-    string longestDiverseString(int a, int b, int c) {
+    std::string longestDiverseString(int a, int b, int c) {
         int currA = 0, currB = 0, currC = 0;
         int maxLen = a + b + c, i = 0;
-        string result; 
+        std::string result; // Using std::string instead of StringBuilder
         
         while (i < maxLen) {
             if ((currA != 2 && a >= b && a >= c) || (a > 0 && (currB == 2 || currC == 2))) {
