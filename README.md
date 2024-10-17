@@ -6,6 +6,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
