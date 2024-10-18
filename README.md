@@ -37,6 +37,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -75,4 +76,12 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
