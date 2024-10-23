@@ -14,6 +14,7 @@ My solutions to leetcode problems.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -24,6 +25,7 @@ My solutions to leetcode problems.
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Sorting
 |  |
@@ -112,4 +114,8 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 <!---LeetCode Topics End-->
