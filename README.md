@@ -14,6 +14,7 @@ My solutions to leetcode problems.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -46,6 +47,7 @@ My solutions to leetcode problems.
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1197-parsing-a-boolean-expression](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -125,5 +127,10 @@ My solutions to leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
