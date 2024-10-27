@@ -15,6 +15,7 @@ My solutions to leetcode problems.
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -82,6 +83,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,4 +140,8 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
