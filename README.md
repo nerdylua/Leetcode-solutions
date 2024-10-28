@@ -19,6 +19,7 @@ My solutions to leetcode problems.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
@@ -30,6 +31,7 @@ My solutions to leetcode problems.
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@ My solutions to leetcode problems.
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -144,4 +147,9 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 <!---LeetCode Topics End-->
