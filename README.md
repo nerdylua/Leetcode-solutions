@@ -21,6 +21,7 @@ My solutions to leetcode problems.
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -148,6 +150,7 @@ My solutions to leetcode problems.
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
