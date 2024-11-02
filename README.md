@@ -60,6 +60,7 @@ My solutions to leetcode problems.
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2580-circular-sentence](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
