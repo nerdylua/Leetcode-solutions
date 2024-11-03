@@ -54,6 +54,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -164,4 +165,8 @@ My solutions to leetcode problems.
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
