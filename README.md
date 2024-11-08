@@ -18,6 +18,7 @@ My solutions to leetcode problems.
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -94,6 +95,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
+| [1940-maximum-xor-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
@@ -178,4 +180,8 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
