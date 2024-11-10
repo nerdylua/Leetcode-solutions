@@ -30,6 +30,7 @@ My solutions to leetcode problems.
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ My solutions to leetcode problems.
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@ My solutions to leetcode problems.
 | [2554-minimum-total-distance-traveled](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3587-maximum-points-tourist-can-earn) |
 ## Binary Search
 |  |
 | ------- |
