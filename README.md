@@ -81,6 +81,7 @@ My solutions to leetcode problems.
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3451-string-compression-iii) |
+| [3617-find-the-original-typed-string-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Greedy
 |  |
 | ------- |
