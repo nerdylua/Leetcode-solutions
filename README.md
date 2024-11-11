@@ -7,6 +7,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My solutions to leetcode problems.
 | [2554-minimum-total-distance-traveled](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -93,6 +95,7 @@ My solutions to leetcode problems.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -196,6 +199,7 @@ My solutions to leetcode problems.
 | ------- |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## String Matching
 |  |
 | ------- |
@@ -205,4 +209,8 @@ My solutions to leetcode problems.
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
