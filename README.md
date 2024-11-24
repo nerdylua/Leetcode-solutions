@@ -27,6 +27,7 @@ My solutions to leetcode problems.
 | [1923-sentence-similarity-iii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -114,6 +115,7 @@ My solutions to leetcode problems.
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -155,6 +157,7 @@ My solutions to leetcode problems.
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3587-maximum-points-tourist-can-earn) |
