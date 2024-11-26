@@ -270,4 +270,8 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
