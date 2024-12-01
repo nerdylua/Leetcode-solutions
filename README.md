@@ -17,6 +17,7 @@ My solutions to leetcode problems.
 | [0787-sliding-puzzle](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1002-maximum-width-ramp](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -190,6 +191,7 @@ My solutions to leetcode problems.
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -281,6 +283,7 @@ My solutions to leetcode problems.
 ## Monotonic Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
