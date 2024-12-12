@@ -7,7 +7,7 @@ public:
             maxheap.pop();
             maxheap.push(floor(sqrt(n)));
         }
-        long int total = 0;
+        long long int total = 0;
         while (!maxheap.empty()) {
         total += maxheap.top();
         maxheap.pop();
