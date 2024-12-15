@@ -1,35 +1,20 @@
-using info = tuple<double, int, int>;
-info A[100000];
 class Solution {
 public:
-    static double maxAverageRatio(vector<vector<int>>& classes, int k) {
-        const int n = classes.size();
-        double sum = 0.0;
-        int i = 0;
-        for (auto& pq : classes) {
-            int p = pq[0], q = pq[1];
-            sum += (double)p/q;
-            double inc=(double)(q - p) / (q * (q + 1.0));
-            A[i++]={inc, p, q};
-        }
-        make_heap(A, A+n);
-        
-        for (int i = 0; i < k; i++) {
-            pop_heap(A, A+n);
-            auto [r, p, q] = A[n-1];
-            if (r==0) break;
-            sum += r;
-            double r2= (double)(q - p) / ((q +1.0)* (q + 2.0));
-            A[n-1]={ r2, p+1, q+1};
-            push_heap(A, A+n);
-        }
-        
-        return sum / n;
+    double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
+    auto profit = [&](double pass, double total) {
+        return (pass + 1) / (total + 1) - pass / total;
+    };
+    double total = 0;
+    priority_queue<pair<double, array<int, 2>>> pq;
+    for (auto &c : classes) {
+        total += (double) c[0] / c[1];
+        pq.push({profit(c[0], c[1]), {c[0], c[1]}});
     }
+    while (extraStudents--) {
+        auto [added_profit, c] = pq.top(); pq.pop();
+        total += added_profit;
+        pq.push({profit(c[0] + 1, c[1] + 1), {c[0] + 1, c[1] + 1}});
+    }
+    return total / classes.size();
+}
 };
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
