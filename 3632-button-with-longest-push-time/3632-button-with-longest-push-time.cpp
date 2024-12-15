@@ -8,8 +8,8 @@ public:
             if (totaltime > maxi || (totaltime == maxi && events[i][0] < smalli)){
                 maxi = totaltime;
                 smalli = events[i][0];
-            }   
+            }
         }
-        return smalli;     
+        return smalli;
     }
 };
