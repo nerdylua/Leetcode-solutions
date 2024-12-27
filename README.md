@@ -21,6 +21,7 @@ My solutions to leetcode problems.
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -316,6 +317,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2164-two-best-non-overlapping-events) |
