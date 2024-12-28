@@ -16,6 +16,7 @@ My solutions to leetcode problems.
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
@@ -317,6 +318,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
