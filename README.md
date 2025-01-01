@@ -134,6 +134,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -162,6 +163,7 @@ My solutions to leetcode problems.
 | [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -244,6 +246,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
