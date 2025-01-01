@@ -53,6 +53,7 @@ My solutions to leetcode problems.
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -89,6 +90,7 @@ My solutions to leetcode problems.
 | [2300-construct-string-with-repeat-limit](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -108,6 +110,7 @@ My solutions to leetcode problems.
 | [2179-most-beautiful-item-for-each-query](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -126,6 +129,7 @@ My solutions to leetcode problems.
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
