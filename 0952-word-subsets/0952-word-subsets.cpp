@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool isSubset(vector<int>& freq2, vector<int>& temp) {
-        for(int i = 0; i < 26; i++) { //O(1)
+        for(int i = 0; i < 26; i++) { 
             if(temp[i] < freq2[i]) {
-                return false; //not a subset
+                return false; 
             }
         }
         return true;
