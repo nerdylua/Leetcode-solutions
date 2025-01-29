@@ -328,6 +328,7 @@ My solutions to leetcode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -363,6 +364,7 @@ My solutions to leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -456,6 +458,7 @@ My solutions to leetcode problems.
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
@@ -500,6 +503,7 @@ My solutions to leetcode problems.
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
