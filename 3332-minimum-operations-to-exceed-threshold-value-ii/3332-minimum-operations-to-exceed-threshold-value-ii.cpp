@@ -17,7 +17,6 @@ public:
             pq.push(min(first, second) * 2 + max(first, second));
             ans++;
         }
-
         return ans;
     }
 };
