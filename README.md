@@ -180,6 +180,7 @@ My solutions to leetcode problems.
 | [1923-sentence-similarity-iii](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nerdylua/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -314,6 +315,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/nerdylua/Leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
