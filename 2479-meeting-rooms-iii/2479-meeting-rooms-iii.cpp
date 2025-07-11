@@ -1,46 +1,31 @@
 class Solution {
 public:
     int mostBooked(int n, vector<vector<int>>& meetings) {
-        sort(meetings.begin(), meetings.end());
-
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> ongoing;
-
-        set<int> available;
-        for (int i = 0; i < n; ++i) available.insert(i);
-
-        vector<int> room_counts(n, 0);
-
-        for (auto& meeting : meetings) {
-            long long start = meeting[0], end = meeting[1];
-            long long duration = end - start;
-
-            while (!ongoing.empty() && ongoing.top().first <= start) {
-                available.insert(ongoing.top().second);
-                ongoing.pop();
-            }
-
-            if (!available.empty()) {
-                int room = *available.begin();
-                available.erase(available.begin());
-
-                room_counts[room]++;
-                ongoing.push({end, room});
-            } else {
-                auto [end_time, room] = ongoing.top();
-                ongoing.pop();
-
-                room_counts[room]++;
-                ongoing.push({end_time + duration, room});
-            }
+    sort(meetings.begin(), meetings.end());
+    priority_queue<int, vector<int>, greater<int>> freeRooms;
+    for (int i = 0; i < n; ++i) freeRooms.push(i);
+    priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<>> busyRooms;
+    vector<int> count(n, 0);
+    for (auto& m : meetings) {
+        int start = m[0], end = m[1];
+        while (!busyRooms.empty() && busyRooms.top().first <= start) {
+            freeRooms.push(busyRooms.top().second);
+            busyRooms.pop();
         }
-
-        int max_count = 0, answer = 0;
-        for (int i = 0; i < n; ++i) {
-            if (room_counts[i] > max_count) {
-                max_count = room_counts[i];
-                answer = i;
-            }
+        if (!freeRooms.empty()) {
+            int room = freeRooms.top(); freeRooms.pop();
+            busyRooms.push({end, room});
+            count[room]++;
+        } else {
+            auto [availTime, room] = busyRooms.top(); busyRooms.pop();
+            long long newEnd = availTime + (end - start);
+            busyRooms.push({newEnd, room});
+            count[room]++;
         }
-        return answer;
     }
+    int ans = 0;
+    for (int i = 1; i < n; ++i)
+        if (count[i] > count[ans]) ans = i;
+    return ans;
+}
 };
