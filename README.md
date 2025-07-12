@@ -101,6 +101,7 @@ My solutions to leetcode problems.
 | [0001-two-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/nerdylua/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0567-permutation-in-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -231,6 +232,7 @@ My solutions to leetcode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/nerdylua/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
@@ -542,4 +544,12 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/nerdylua/Leetcode-solutions/tree/master/0355-design-twitter) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/nerdylua/Leetcode-solutions/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
