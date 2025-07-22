@@ -40,6 +40,7 @@ My solutions to leetcode problems.
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1813-maximum-erasure-value](https://github.com/nerdylua/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1876-map-of-highest-peak](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -113,6 +114,7 @@ My solutions to leetcode problems.
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1813-maximum-erasure-value](https://github.com/nerdylua/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/nerdylua/Leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -260,6 +262,7 @@ My solutions to leetcode problems.
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/nerdylua/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
