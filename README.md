@@ -176,6 +176,7 @@ My solutions to leetcode problems.
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/nerdylua/Leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
