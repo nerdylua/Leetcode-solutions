@@ -7,6 +7,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
+| [1448-maximum-69-number](https://github.com/nerdylua/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nerdylua/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -218,6 +219,7 @@ My solutions to leetcode problems.
 | [0891-score-after-flipping-matrix](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0891-score-after-flipping-matrix) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/nerdylua/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
