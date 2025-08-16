@@ -15,6 +15,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdylua/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -433,6 +434,7 @@ My solutions to leetcode problems.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdylua/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -548,6 +550,7 @@ My solutions to leetcode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nerdylua/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Linked List
 |  |
