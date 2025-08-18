@@ -7,6 +7,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/nerdylua/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/nerdylua/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -20,6 +21,7 @@ My solutions to leetcode problems.
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
@@ -314,6 +316,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0679-24-game) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
