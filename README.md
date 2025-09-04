@@ -13,6 +13,7 @@ My solutions to leetcode problems.
 | [2202-sum-of-k-mirror-numbers](https://github.com/nerdylua/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3830-find-closest-person](https://github.com/nerdylua/Leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
