@@ -6,6 +6,7 @@ My solutions to leetcode problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nerdylua/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0670-maximum-swap](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/nerdylua/Leetcode-solutions/tree/master/0867-new-21-game) |
@@ -109,6 +110,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdylua/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/nerdylua/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/nerdylua/Leetcode-solutions/tree/master/0355-design-twitter) |
@@ -186,6 +188,7 @@ My solutions to leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nerdylua/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nerdylua/Leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/nerdylua/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/0812-rotate-string) |
