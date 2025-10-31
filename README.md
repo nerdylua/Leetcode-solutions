@@ -13,6 +13,7 @@ My solutions to leetcode problems.
 | [2202-sum-of-k-mirror-numbers](https://github.com/nerdylua/Leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nerdylua/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/nerdylua/Leetcode-solutions/tree/master/3830-find-closest-person) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ My solutions to leetcode problems.
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nerdylua/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Hash Table
@@ -137,6 +139,7 @@ My solutions to leetcode problems.
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nerdylelouch/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nerdylua/Leetcode-solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
 | ------- |
